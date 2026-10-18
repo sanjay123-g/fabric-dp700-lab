@@ -45,4 +45,3 @@ spark.range(1000).write.mode("overwrite").saveAsTable("diag_test")
 # META }
 
 # MARKDOWN ********************
-# edited on GitHub
