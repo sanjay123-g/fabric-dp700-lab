@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "wh_practice",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1e873f30-07d7-b655-4e7c-6fd652d4a523"
+  }
+}
